@@ -11,7 +11,7 @@ on:
 jobs:
   update-readme:
     name: Update Readme with Metrics
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu 18.04
     if: github.event.repository.owner.id == github.event.sender.id
     steps:
       - uses: anmol098/waka-readme-stats@master
