@@ -33,4 +33,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
 
 <!--START_SECTION:waka-->
+```text
+Other    11 hrs 23 mins  ████████████████████░░░░░   79.79 % 
+Python   2 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+```
 <!--END_SECTION:waka-->
