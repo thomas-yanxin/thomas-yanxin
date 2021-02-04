@@ -1,10 +1,6 @@
-name: Waka Readme
+name: wakatime-stats
 
 on:
-  watch:
-    types: started
-  push:
-    branches: [ master ]
   schedule:
     - cron: '* * * * *'
 
@@ -12,18 +8,17 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
-          LOCALE: "en"
+          USERNAME: thomas-yanxin # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
           SHOW_OS: "False"
-          SHOW_COMMIT: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
-        
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "False"
