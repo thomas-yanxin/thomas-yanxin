@@ -44,6 +44,6 @@ Other   50 hrs 13 mins  ██████████████████�
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
+<img src="https://counter4.stat.ovh/private/freecounterstat.php?c=ceddpy8swxbdjwte2wcdjedx9k1qwhpk" border="0" title="blog visitor counter" alt="blog visitor counter">
 </p>
 
