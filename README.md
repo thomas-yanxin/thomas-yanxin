@@ -37,3 +37,13 @@ Here are some ideas to get you started:
 Other   50 hrs 13 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+
+## Visitor Statistics
+
+<img src="https://github.com/WangRongsheng/WangRongsheng/blob/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
+</p>
+
