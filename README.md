@@ -44,6 +44,6 @@ Other   50 hrs 13 mins  ██████████████████�
 
 <p align="center"> 
   Visitor count<br>
-<img src="https://counter4.stat.ovh/private/freecounterstat.php?c=wh6twhcnr7rxq4z6u7a9xdzxupyqmypl" border="0" title="website counter" alt="website counter">
+<img src="https://counter4.stat.ovh/private/freecounterstat.php?c=epsd5w2gdwej2lurwcq8ajlla1flnz3h" border="0" title="free website counter" alt="free website counter">
 </p>
 
