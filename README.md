@@ -2,7 +2,7 @@
 
 Connect with me here -
 
-<p align="center">https://space.bilibili.com/438539054?from=search&seid=8236420690670187274
+<p align="center">
   <a href="https://github.com/thomas-yanxin"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/yanxin_thomas"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/Mefishes"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
