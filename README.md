@@ -2,11 +2,12 @@
 
 Connect with me here -
 
-<p align="center">
+<p align="center">https://space.bilibili.com/438539054?from=search&seid=8236420690670187274
   <a href="https://github.com/thomas-yanxin"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/yanxin_thomas"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/Mefishes"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://twitter.com/Thomasy50275506"><img src="https://img.shields.io/badge/Twitter-6495ED" alt="twitter"></a>
+  <a href="https://space.bilibili.com/438539054?from=search&seid=8236420690670187274"><img src="https://img.shields.io/badge/-bilibili-blue" alt="bilibili"></a>
 </p>
 
 <a href="#">
@@ -31,6 +32,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Matlab-FF4040?style=flat-square&logo=Matlab&logoColor=fff)
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 
 <!--START_SECTION:waka-->
 ```text
