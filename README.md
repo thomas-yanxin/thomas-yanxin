@@ -8,11 +8,15 @@ Connect with me here -
   <a href="https://blog.csdn.net/Mefishes"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://twitter.com/Thomasy50275506"><img src="https://img.shields.io/badge/Twitter-6495ED" alt="twitter"></a>
   <a href="https://space.bilibili.com/438539054?from=search&seid=8236420690670187274"><img src="https://img.shields.io/badge/-bilibili-blue" alt="bilibili"></a>
+  <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/383005"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
+  <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E9%A2%9C%E9%91%AB"><img src="https://img.shields.io/badge/-PPDE-brightgreen" alt="PPDE"></a>
+  
+  
 </p>
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas-yanxin&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
-</a>
+
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas-yanxin&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+
 
 <!--
 **thomas-yanxin/thomas-yanxin** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +33,6 @@ Here are some ideas to get you started:
 
  **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Matlab-FF4040?style=flat-square&logo=Matlab&logoColor=fff)
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
@@ -42,12 +45,9 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## Visitor Statistics
+
 
 <img src="https://github.com/WangRongsheng/WangRongsheng/blob/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-<img src="https://counter4.stat.ovh/private/freecounterstat.php?c=epsd5w2gdwej2lurwcq8ajlla1flnz3h" border="0" title="free website counter" alt="free website counter">
-</p>
+
 
