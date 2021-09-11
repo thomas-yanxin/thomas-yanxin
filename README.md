@@ -6,7 +6,7 @@ Connect with me here -
   <a href="https://github.com/thomas-yanxin"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/yanxin_thomas"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/Mefishes"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
-  <a href="https://twitter.com/Thomasy50275506"><img src="https://img.shields.io/badge/Twitter-6495ED" alt="twitter"></a>
+  <a href="https://twitter.com/thomas_yanxin"><img src="https://img.shields.io/badge/Twitter-6495ED" alt="twitter"></a>
   <a href="https://space.bilibili.com/438539054?from=search&seid=8236420690670187274"><img src="https://img.shields.io/badge/-bilibili-blue" alt="bilibili"></a>
   <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/383005"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
   <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E9%A2%9C%E9%91%AB"><img src="https://img.shields.io/badge/-PPDE-brightgreen" alt="PPDE"></a>
