@@ -11,9 +11,7 @@ Connect with me here -
   <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/383005"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
   <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E9%A2%9C%E9%91%AB"><img src="https://img.shields.io/badge/-PPDE-brightgreen" alt="PPDE"></a>
   
-  
 </p>
-
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas-yanxin&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 
@@ -44,10 +42,4 @@ Here are some ideas to get you started:
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-
-
-<img src="https://github.com/WangRongsheng/WangRongsheng/blob/master/resources/banner.png" alt="Hello world">
-
-
 
