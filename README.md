@@ -10,7 +10,9 @@ Connect with me here -
   <a href="https://space.bilibili.com/438539054?from=search&seid=8236420690670187274"><img src="https://img.shields.io/badge/-bilibili-blue" alt="bilibili"></a>
   <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/383005"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
   <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E9%A2%9C%E9%91%AB"><img src="https://img.shields.io/badge/-PPDE-brightgreen" alt="PPDE"></a>
-  
+  <a href="https://huggingface.co/thomas-yanxin"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
+  <a href="https://git.openi.org.cn/thomas-yanxin"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
+ 
 </p>
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas-yanxin&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
