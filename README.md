@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-yanxin&layout=compact)](https://github.com/thomas-yanxin/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 ```text
