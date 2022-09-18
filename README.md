@@ -42,7 +42,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Other   1 hr 59 mins    █████████████████████████   100.00 %
+From: 28 January 2021 - To: 16 September 2022
+
+Total Time: 732 hrs 46 mins
+
+Other        703 hrs 23 mins >>>>>>>>>>>>>>>>>>>>>>>>-   95.99 %
 ```
 
 <!--END_SECTION:waka-->
