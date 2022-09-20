@@ -21,11 +21,11 @@ jobs:
           SHOW_MASKED_TIME: true
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "False"
+          SHOW_SHORT_INFO: "True"
           SHOW_TOTAL: "True"
 
