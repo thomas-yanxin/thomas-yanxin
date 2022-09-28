@@ -42,11 +42,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-Total Time: 1 hr 55 mins
+Total Time: 1 hr 54 mins
 
-Other      57 mins         >>>>>>>>>>>>>------------   50.33 %
+Python     1 hr 18 mins    >>>>>>>>>>>>>>>>>--------   68.29 %
+Markdown   29 mins         >>>>>>>------------------   26.06 %
+Text       6 mins          >------------------------   05.64 %
+Other      0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
