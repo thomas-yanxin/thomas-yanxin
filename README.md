@@ -1,7 +1,5 @@
 <h2 align="center"> 欢迎访问我的GitHub</h2>
 
-Connect with me here -
-
 <p align="center">
   <a href="https://github.com/thomas-yanxin"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/yanxin_thomas"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
