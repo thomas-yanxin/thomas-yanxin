@@ -1,10 +1,9 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 */4 * * *'
+    - cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
   update-readme:
@@ -14,17 +13,7 @@ jobs:
       - uses: thomas-yanxin/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_TOTAL: "True"
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
