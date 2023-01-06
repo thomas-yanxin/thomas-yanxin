@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: thomas-yanxin/waka-readme@master
+      - uses: thomas-yanxin/thomas-yanxin@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
