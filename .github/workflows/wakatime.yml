@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: thomas-yanxin/thomas-yanxin@master
+      - uses: thomas-yanxin/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -19,13 +19,12 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_PROFILE_VIEWS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_LOC_CHART: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_SHORT_INFO: true
-          SHOW_TOTAL: true
-
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_TOTAL: "True"
