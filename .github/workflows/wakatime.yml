@@ -13,12 +13,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_UPDATED_DATE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_COMMIT: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_LOC_CHART: "False"
-
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
 
 
