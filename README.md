@@ -39,14 +39,5 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-From: 30 September 2022 - To: 07 October 2022
-
-Total Time: 1 hr 27 mins
-
-Python     1 hr 9 mins     >>>>>>>>>>>>>>>>>>>>-----   79.72 %
-Other      10 mins         >>>----------------------   11.77 %
-```
-
 <!--END_SECTION:waka-->
 
