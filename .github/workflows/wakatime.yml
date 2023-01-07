@@ -35,7 +35,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_USERNAME: "thomas-yanxin"
-          COMMIT_EMAIL: "42488585+thomas-yanxin@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
