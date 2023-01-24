@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
