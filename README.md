@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
@@ -71,7 +71,7 @@ Windows                  15 hrs 54 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ██████████████████░░░░░░░   71.88 % 
+Python                   24 repos            ███████████████████░░░░░░   75.00 % 
 Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
