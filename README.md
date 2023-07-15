@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -71,11 +71,11 @@ Windows                  12 hrs 30 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ███████████████████░░░░░░   77.42 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   25 repos            ████████████████████░░░░░   78.12 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
