@@ -10,7 +10,7 @@
   <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E9%A2%9C%E9%91%AB"><img src="https://img.shields.io/badge/-PPDE-brightgreen" alt="PPDE"></a>
   <a href="https://huggingface.co/thomas-yanxin"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
   <a href="https://git.openi.org.cn/thomas-yanxin"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
-  <a href="https://git.openi.org.cn/thomas-yanxin"><img src="https://img.shields.io/badge/modelscope-8A2BE2" alt="ModelScope"></a>
+  <a href="https://modelscope.cn/organization/AI-ModelScope"><img src="https://img.shields.io/badge/modelscope-8A2BE2" alt="ModelScope"></a>
   
  
 </p>
