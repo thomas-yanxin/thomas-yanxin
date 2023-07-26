@@ -11,10 +11,9 @@
   <a href="https://huggingface.co/thomas-yanxin"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
   <a href="https://git.openi.org.cn/thomas-yanxin"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
   <a href="https://modelscope.cn/organization/AI-ModelScope"><img src="https://img.shields.io/badge/modelscope-8A2BE2" alt="ModelScope"></a>
-  
- 
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas-yanxin&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 
 -  I’m currently studying on ECUST.
 -  I’m currently learning multi-agent.
