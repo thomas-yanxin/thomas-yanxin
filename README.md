@@ -15,25 +15,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas-yanxin&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 
--  I’m currently studying on ECUST.
--  I’m currently learning multi-agent.
--  I’m looking to collaborate on Python.
--  Ask me about multi-agent.
+-  I've graduated from ECUST.
+-  I’m currently learning LLM、Multi Agent.
 -  How to reach me: yx20001210@163.com
 
-
- **My Skills**  
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Matlab-FF4040?style=flat-square&logo=Matlab&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2044%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2044%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 📊 **This Week I Spent My Time On** 
 
