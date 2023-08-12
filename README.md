@@ -1,4 +1,4 @@
-<h2 align="center"> 欢迎访问我的GitHub</h2>
+<h2 align="center"> Welcome to my GitHub!</h2>
 
 <p align="center">
   <a href="https://github.com/thomas-yanxin"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
@@ -17,10 +17,13 @@
 
 -  I've graduated from ECUST.
 -  I’m currently learning LLM、Multi Agent.
--  How to reach me: yx20001210@163.com
+-  How to reach me: yx20001210@163.com.
+<br />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2044%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+<br />
 
 📊 **This Week I Spent My Time On** 
 
