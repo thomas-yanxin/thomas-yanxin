@@ -31,18 +31,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 18 mins        ████████████████████████░   96.07 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-XiaoYuan                 1 hr 15 mins        ███████████████████████░░   91.86 % 
-Wechat_bot               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
