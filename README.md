@@ -16,7 +16,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas-yanxin&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 
 -  I've graduated from ECUST.
--  I’m currently learning LLM、Multi Agent.
+-  I’m currently learning LLM、MMLM、Emboied AI.
 -  How to reach me: yx20001210@163.com.
 <br />
 
