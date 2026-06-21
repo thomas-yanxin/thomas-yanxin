@@ -21,9 +21,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,33 +29,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 mins             ██████████████░░░░░░░░░░░   54.39 % 
-Markdown                 20 mins             ██████████░░░░░░░░░░░░░░░   41.45 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-medicine                 23 mins             ████████████░░░░░░░░░░░░░   48.97 % 
-MindChat                 20 mins             ██████████░░░░░░░░░░░░░░░   41.45 % 
-dataset                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-AnyText                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ████████████████████░░░░░   81.25 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   32 repos            ███████████████████░░░░░░   76.19 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
