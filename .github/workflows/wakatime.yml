@@ -2,13 +2,15 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 * * * *'
+    # Runs once daily at 00:30 UTC (08:30 Asia/Shanghai)
+    - cron: '30 0 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
