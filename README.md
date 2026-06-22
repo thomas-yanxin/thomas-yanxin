@@ -74,12 +74,15 @@
 
 </div>
 
-<!-- ========================  TROPHIES  ======================== -->
-## 🏆 Trophies
+<!-- ========================  FEATURED REPOS  ======================== -->
+## ⭐ Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thomas-yanxin&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<a href="https://github.com/datawhalechina/self-llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=self-llm&title_color=2F80ED&icon_color=2F80ED&text_color=434d58&bg_color=FFFFFF&hide_border=true" alt="self-llm" /></a>
+<a href="https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomas-yanxin&repo=LangChain-ChatGLM-Webui&title_color=2F80ED&icon_color=2F80ED&text_color=434d58&bg_color=FFFFFF&hide_border=true" alt="LangChain-ChatGLM-Webui" /></a>
+<a href="https://github.com/thomas-yanxin/FateBridge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomas-yanxin&repo=FateBridge&title_color=2F80ED&icon_color=2F80ED&text_color=434d58&bg_color=FFFFFF&hide_border=true" alt="FateBridge" /></a>
+<a href="https://github.com/thomas-yanxin/MindChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thomas-yanxin&repo=MindChat&title_color=2F80ED&icon_color=2F80ED&text_color=434d58&bg_color=FFFFFF&hide_border=true" alt="MindChat" /></a>
 
 </div>
 
