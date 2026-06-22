@@ -21,9 +21,9 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C197%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,16 +31,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 59 mins       ███████████████░░░░░░░░░░   59.27 % 
+Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              5 hrs               █████████████████████████   99.11 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FateBridge               4 hrs 54 mins       ████████████████████████░   97.12 % 
+thomas-yanxin            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Awesome-Embodied-Benchmar2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+horosa-skill             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+khazix-skills            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
