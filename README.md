@@ -89,7 +89,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C197%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
@@ -99,25 +99,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       ███████████████░░░░░░░░░░   59.27 % 
-Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 14 hrs 58 mins      ███████████████░░░░░░░░░░   60.69 % 
+Python                   7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TOML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Claude Code              5 hrs               █████████████████████████   99.11 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Claude Code              23 hrs 58 mins      ████████████████████████░   97.20 % 
+OpenCode                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+GitHubDesktop            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Setup                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-FateBridge               4 hrs 54 mins       ████████████████████████░   97.12 % 
-thomas-yanxin            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Awesome-Embodied-Benchmar2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-horosa-skill             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-khazix-skills            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+FateBridge               23 hrs 6 mins       ███████████████████████░░   93.71 % 
+thomas-yanxin.github.io  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+MingLi-Bench             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+thomas-yanxin            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+MindBridge               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      24 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
