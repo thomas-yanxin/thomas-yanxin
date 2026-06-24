@@ -89,9 +89,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -99,28 +99,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 58 mins      ███████████████░░░░░░░░░░   60.69 % 
-Python                   7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-TOML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Markdown                 16 hrs 27 mins      ███████████████░░░░░░░░░░   60.37 % 
+Python                   8 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+TOML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 58 mins      ████████████████████████░   97.20 % 
-OpenCode                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-GitHubDesktop            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Setup                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              26 hrs 34 mins      ████████████████████████░   97.47 % 
+OpenCode                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+GitHubDesktop            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Setup                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-FateBridge               23 hrs 6 mins       ███████████████████████░░   93.71 % 
-thomas-yanxin.github.io  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-MingLi-Bench             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-thomas-yanxin            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-MindBridge               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+FateBridge               25 hrs 37 mins      ███████████████████████░░   93.96 % 
+thomas-yanxin            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+thomas-yanxin.github.io  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+MingLi-Bench             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+MindBridge               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Mac                      24 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
