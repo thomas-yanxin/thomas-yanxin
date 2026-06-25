@@ -89,9 +89,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C212%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -99,38 +99,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 27 mins      ███████████████░░░░░░░░░░   60.37 % 
-Python                   8 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-TOML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown                 17 hrs 53 mins      ███████████████░░░░░░░░░░   60.58 % 
+Python                   9 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TOML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 34 mins      ████████████████████████░   97.47 % 
-OpenCode                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-GitHubDesktop            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Setup                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              29 hrs 8 mins       █████████████████████████   98.69 % 
+GitHubDesktop            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Setup                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-FateBridge               25 hrs 37 mins      ███████████████████████░░   93.96 % 
-thomas-yanxin            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-thomas-yanxin.github.io  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-MingLi-Bench             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-MindBridge               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+FateBridge               27 hrs 54 mins      ████████████████████████░   94.50 % 
+thomas-yanxin            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+thomas-yanxin.github.io  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+MingLi-Bench             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+MindBridge               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Mac                      27 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            ███████████████████░░░░░░   76.19 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   33 repos            ███████████████████░░░░░░   76.74 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
