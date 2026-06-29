@@ -99,27 +99,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 22 mins      ███████████████░░░░░░░░░░   61.66 % 
-Python                   7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.42 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Markdown                 10 hrs 10 mins      ███████████████░░░░░░░░░░   61.60 % 
+Python                   4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 53 mins      █████████████████████████   98.16 % 
-GitHubDesktop            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Setup                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              16 hrs 10 mins      ████████████████████████░   97.87 % 
+GitHubDesktop            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-FateBridge               22 hrs 18 mins      ████████████████████████░   95.64 % 
-MindBridge               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-thomas-yanxin            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-starVLA                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Awesome-Embodied-Benchmar2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+FateBridge               15 hrs 51 mins      ████████████████████████░   95.96 % 
+MindBridge               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+starVLA                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+thomas-yanxin            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      23 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
