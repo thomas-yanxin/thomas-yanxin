@@ -99,25 +99,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 10 mins      ███████████████░░░░░░░░░░   61.60 % 
-Python                   4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Markdown                 12 hrs 32 mins      █████████████████░░░░░░░░   68.17 % 
+Python                   4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 10 mins      ████████████████████████░   97.87 % 
-GitHubDesktop            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              18 hrs 6 mins       █████████████████████████   98.52 % 
+GitHubDesktop            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-FateBridge               15 hrs 51 mins      ████████████████████████░   95.96 % 
-MindBridge               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-starVLA                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-thomas-yanxin            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+FateBridge               18 hrs 2 mins       █████████████████████████   98.10 % 
+MindBridge               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+thomas-yanxin            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      16 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
