@@ -99,34 +99,33 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 32 mins      █████████████████░░░░░░░░   68.17 % 
-Python                   4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Markdown                 8 hrs 7 mins        █████████████████░░░░░░░░   66.53 % 
+Python                   2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 6 mins       █████████████████████████   98.52 % 
-GitHubDesktop            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude Code              11 hrs 58 mins      ████████████████████████░   97.99 % 
+GitHubDesktop            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-FateBridge               18 hrs 2 mins       █████████████████████████   98.10 % 
-MindBridge               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-thomas-yanxin            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+FateBridge               11 hrs 58 mins      ████████████████████████░   98.00 % 
+MindBridge               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ███████████████████░░░░░░   76.74 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   34 repos            ███████████████████░░░░░░   77.27 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
