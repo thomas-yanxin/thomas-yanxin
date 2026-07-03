@@ -89,7 +89,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C221%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
@@ -99,24 +99,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 4 mins        █████████████████░░░░░░░░   69.23 % 
-Python                   2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown                 3 hrs 42 mins       ███████████████░░░░░░░░░░   61.81 % 
+Python                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   32.51 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 35 mins       ████████████████████████░   97.75 % 
-GitHubDesktop            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Claude Code              5 hrs 48 mins       ████████████████████████░   97.02 % 
+GitHubDesktop            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-FateBridge               8 hrs 35 mins       ████████████████████████░   97.77 % 
-MindBridge               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+FateBridge               5 hrs 48 mins       ████████████████████████░   97.06 % 
+MindBridge               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      8 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
