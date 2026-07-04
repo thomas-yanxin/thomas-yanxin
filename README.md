@@ -99,24 +99,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 42 mins       ███████████████░░░░░░░░░░   61.81 % 
-Python                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Markdown                 3 hrs 26 mins       █████████████████░░░░░░░░   68.73 % 
+Python                   1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+TeX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 48 mins       ████████████████████████░   97.02 % 
-GitHubDesktop            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude Code              4 hrs 59 mins       █████████████████████████   99.55 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-FateBridge               5 hrs 48 mins       ████████████████████████░   97.06 % 
-MindBridge               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+FateBridge               4 hrs 36 mins       ███████████████████████░░   92.12 % 
+MindChat__A_Privacy_prese22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Awesome-Embodied-Benchmar0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
