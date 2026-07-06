@@ -99,24 +99,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 26 mins       █████████████████░░░░░░░░   68.73 % 
-Python                   1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-TeX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 1 hr 58 mins        ███████████████░░░░░░░░░░   60.18 % 
+Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 59 mins       █████████████████████████   99.55 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              3 hrs 16 mins       █████████████████████████   99.78 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-FateBridge               4 hrs 36 mins       ███████████████████████░░   92.12 % 
-MindChat__A_Privacy_prese22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Awesome-Embodied-Benchmar0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+FateBridge               3 hrs 4 mins        ████████████████████████░   94.11 % 
+MindChat__A_Privacy_prese11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      5 hrs               █████████████████████████   100.00 % 
+Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
