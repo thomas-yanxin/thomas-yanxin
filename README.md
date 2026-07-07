@@ -91,7 +91,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -99,23 +99,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ███████████████░░░░░░░░░░   60.18 % 
-Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Markdown                 1 hr 21 mins        ███████████████░░░░░░░░░░   58.57 % 
+Python                   50 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 16 mins       █████████████████████████   99.78 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              2 hrs 18 mins       █████████████████████████   99.69 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-FateBridge               3 hrs 4 mins        ████████████████████████░   94.11 % 
-MindChat__A_Privacy_prese11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+FateBridge               2 hrs 18 mins       █████████████████████████   99.69 % 
+trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
