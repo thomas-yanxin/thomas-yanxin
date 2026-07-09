@@ -91,7 +91,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -99,22 +99,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 21 mins        ███████████████░░░░░░░░░░   58.57 % 
-Python                   50 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 hrs 18 mins       █████████████████████████   99.69 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FateBridge               2 hrs 18 mins       █████████████████████████   99.69 % 
-trusting-bhaskara-081922 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
