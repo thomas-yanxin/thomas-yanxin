@@ -89,10 +89,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%202%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -101,22 +97,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 8 mins              ██████████████████████░░░   89.61 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              8 mins              ██████████████████████░░░   89.61 % 
+Vim                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+xiaohongshu              8 mins              ██████████████████████░░░   89.61 % 
+Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (100.0%)
+
+✍️ 47 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,779,227 Input Tokens, 2,210 Output Tokens
+
+💵 $8.95 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 2 AI Prompts
+
+Opus                     47 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 2 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 7.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
