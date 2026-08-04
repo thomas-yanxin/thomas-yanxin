@@ -101,50 +101,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 13 mins       █████████████████░░░░░░░░   67.15 % 
-Bash                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Markdown                 1 hr 23 mins        ███████████████░░░░░░░░░░   58.58 % 
+Bash                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        ██████████████░░░░░░░░░░░   54.50 % 
-Vim                      48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Claude Code              39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+VS Code                  1 hr 21 mins        ██████████████░░░░░░░░░░░   56.70 % 
+Vim                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Claude Code              21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-Unknown Project          52 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-xiaohongshu              51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-NooK                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Codex_rednote            31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-YRobot                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+xiaohongshu              46 mins             ████████░░░░░░░░░░░░░░░░░   32.15 % 
+Unknown Project          41 mins             ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+NooK                     39 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+khazix-skills            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Desktop                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (96.55%)
+⏱ AI Coding Time: 2 hrs 16 mins (95.19%)
 
-✍️ 565 lines written by AI, 35 lines written by hand (94.17% AI-written)
+✍️ 526 lines written by AI, 40 lines written by hand (92.93% AI-written)
 
-🔤 47,288,299 Input Tokens, 191,900 Output Tokens
+🔤 37,015,999 Input Tokens, 132,947 Output Tokens
 
-💵 $236.41 Estimated AI Cost This Week
+💵 $185.50 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 55 AI Prompts
+🧠 31 AI Sessions, 46 AI Prompts
 
-GPT                      495 lines           █████████████████████░░░░   85.20 % 
-Opus                     86 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+GPT                      495 lines           ███████████████████████░░   91.33 % 
+Opus                     47 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.17% of written lines came from AI
-📚 Verbose Prompter — average 9,677 characters per prompt
+🤖 AI-Driven — 92.93% of written lines came from AI
+📚 Verbose Prompter — average 8,889 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 6.29% of changed lines were hand-edited
+🚀 High AI Trust — 7.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
