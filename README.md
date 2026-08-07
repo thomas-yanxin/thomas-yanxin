@@ -89,10 +89,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%2025%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -101,60 +97,59 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         █████████████████████░░░░   83.73 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Markdown                 1 hr 2 mins         ██████████████████████░░░   88.65 % 
+HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████░░░░░░░░   66.47 % 
-Vim                      23 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Exec Wakatime            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+VS Code                  45 mins             ████████████████░░░░░░░░░   64.59 % 
+Vim                      21 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
+Exec Wakatime            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🐱‍💻 Projects: 
-NooK                     39 mins             ████████████░░░░░░░░░░░░░   49.04 % 
-Unknown Project          19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-khazix-skills            7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Desktop                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-xiaohongshu              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+NooK                     39 mins             ██████████████░░░░░░░░░░░   55.84 % 
+Unknown Project          14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+khazix-skills            7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Desktop                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+output                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 20 mins (100.0%)
+⏱ AI Coding Time: 1 hr 10 mins (100.0%)
 
-✍️ 72 lines written by AI, 40 lines written by hand (64.29% AI-written)
+✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
 
-🔤 13,931,791 Input Tokens, 52,469 Output Tokens
+🔤 11,018,860 Input Tokens, 41,082 Output Tokens
 
-💵 $70.12 Estimated AI Cost This Week
+💵 $55.86 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 27 AI Prompts
+🧠 15 AI Sessions, 21 AI Prompts
 
-GPT                      72 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.29% of written lines came from AI
-📚 Verbose Prompter — average 6,759 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 35.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 6,111 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            ███████████████████░░░░░░   74.47 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   36 repos            ███████████████████░░░░░░   75.00 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
