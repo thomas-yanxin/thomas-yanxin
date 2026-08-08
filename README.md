@@ -89,6 +89,10 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -145,11 +149,11 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            ███████████████████░░░░░░   75.00 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python                   35 repos            ███████████████████░░░░░░   74.47 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
