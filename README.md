@@ -93,7 +93,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -101,49 +101,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 2 mins         ██████████████████████░░░   88.65 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    10 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
+HTML                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  45 mins             ████████████████░░░░░░░░░   64.59 % 
-Vim                      21 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
-Exec Wakatime            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Claude Code              19 mins             ███████████████████░░░░░░   74.41 % 
+VS Code                  5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Vim                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-NooK                     39 mins             ██████████████░░░░░░░░░░░   55.84 % 
-Unknown Project          14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-khazix-skills            7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Desktop                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-output                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+khazix-skills            25 mins             █████████████████████████   99.55 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (100.0%)
+⏱ AI Coding Time: 25 mins (100.0%)
 
-✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
+✍️ 16 lines written by AI, 5 lines written by hand (76.19% AI-written)
 
-🔤 11,018,860 Input Tokens, 41,082 Output Tokens
+🔤 5,328,469 Input Tokens, 17,748 Output Tokens
 
-💵 $55.86 Estimated AI Cost This Week
+💵 $27.07 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 21 AI Prompts
+🧠 4 AI Sessions, 5 AI Prompts
 
+Opus                     16 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 6,111 characters per prompt
+🤖 AI-Driven — 76.19% of written lines came from AI
+📄 Detailed Prompter — average 953 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 23.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
