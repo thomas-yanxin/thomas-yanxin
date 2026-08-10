@@ -101,56 +101,54 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
-HTML                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+HTML                     6 mins              ████████████████████░░░░░   81.67 % 
+Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Claude Code              19 mins             ███████████████████░░░░░░   74.41 % 
-VS Code                  5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Vim                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+VS Code                  5 mins              ██████████████████░░░░░░░   72.50 % 
+Claude Code              1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Vim                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 🐱‍💻 Projects: 
-khazix-skills            25 mins             █████████████████████████   99.55 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+khazix-skills            7 mins              █████████████████████████   98.54 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (100.0%)
+⏱ AI Coding Time: 8 mins (100.0%)
 
-✍️ 16 lines written by AI, 5 lines written by hand (76.19% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 5,328,469 Input Tokens, 17,748 Output Tokens
+🔤 864,700 Input Tokens, 6,658 Output Tokens
 
-💵 $27.07 Estimated AI Cost This Week
+💵 $4.47 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-Opus                     16 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.19% of written lines came from AI
-📄 Detailed Prompter — average 953 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,188 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 23.81% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            ███████████████████░░░░░░   74.47 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   35 repos            ██████████████████░░░░░░░   72.92 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
