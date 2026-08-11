@@ -101,54 +101,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     6 mins              ████████████████████░░░░░   81.67 % 
-Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              ██████████████████░░░░░░░   72.50 % 
-Claude Code              1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Vim                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-khazix-skills            7 mins              █████████████████████████   98.54 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (100.0%)
-
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
-
-🔤 864,700 Input Tokens, 6,658 Output Tokens
-
-💵 $4.47 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 4 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,188 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            ██████████████████░░░░░░░   72.92 % 
+Python                   36 repos            ███████████████████░░░░░░   75.00 % 
 Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
