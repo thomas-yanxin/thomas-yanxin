@@ -122,11 +122,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            ██████████████████░░░░░░░   70.00 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   36 repos            ██████████████████░░░░░░░   70.59 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
